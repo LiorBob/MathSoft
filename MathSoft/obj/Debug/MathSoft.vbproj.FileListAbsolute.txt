@@ -1,0 +1,17 @@
+D:\MathSoft\MathSoft\MathSoft\bin\Debug\MathSoft.exe
+D:\MathSoft\MathSoft\MathSoft\bin\Debug\MathSoft.pdb
+D:\MathSoft\MathSoft\MathSoft\bin\Debug\MathSoft.xml
+D:\MathSoft\MathSoft\MathSoft\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\MathSoft\MathSoft\MathSoft\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\MathSoft.vbprojAssemblyReference.cache
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\MathSoft.vbproj.ResolveComReference.cache
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\MathSoft.frmMath.resources
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\MathSoft.frmSplash.resources
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\MathSoft.Resources.resources
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\MathSoft.vbproj.GenerateResource.cache
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\MathSoft.vbproj.CoreCompileInputs.cache
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\MathSoft.exe
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\MathSoft.xml
+D:\MathSoft\MathSoft\MathSoft\obj\Debug\MathSoft.pdb
